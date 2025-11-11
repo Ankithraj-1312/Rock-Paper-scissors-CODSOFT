@@ -23,7 +23,7 @@ It’s a fun and interactive way to practice Python basics such as conditionals,
 - **Concepts Used:** Loops, Conditionals, User Input, Randomization  
 
 ---
-##Sample Output
+Sample Output
 
 Welcome to Rock-Paper-Scissors Game
 
